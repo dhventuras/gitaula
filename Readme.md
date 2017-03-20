@@ -1,1 +1,3 @@
-curso git
+curso gi
+Aprendendo git
+
